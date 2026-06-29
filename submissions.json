@@ -3,7 +3,6 @@
         "project_name": "Project 1",
         "project_description": "This is my submission for Project 1.",
         "project_url": "https://example.com/project1",
-        
         "project_author": "Matt"
     },
     {
@@ -15,5 +14,8 @@
         "project_name": "Project Beta",
         "project_description": "This is my submission for Project Beta.",
         "project_author": "John"
+    }, 
+    {
+        
     }
 ]
