@@ -18,9 +18,10 @@
         "project_author": "Matt"
     },
     {
-        "project_name": "Project Alpha",
-        "project_description": "This is my submission for Project Alpha.This is my submission for Project Alpha.",
-        "project_author": "Laura"
+        "project_name": "Fuel Economy Data Analysis in Python",
+        "project_description": "The analysis focuses on determining improvements in fuel economy over the course of the decade and uses Jupyter Notebooks.",
+        "project_url": "https://github.com/l-white/fuel-economy-data-analysis",
+        "project_author": "Laura White"
     },
     {
         "project_name": "Project Beta",
