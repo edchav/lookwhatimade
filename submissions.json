@@ -4,7 +4,7 @@
         "project_description": "Digital companion for the World JuJitsu Federation (WJJF) Ireland syllabus",
         "project_url": "https://www.jujitsu.ie/",
         "project_author": "Mark O'Dowd"
-    }, 
+    },
     {
         "project_name": "Irish Trad",
         "project_description": "The all-in-one toolkit for learning and playing Irish traditional music",
@@ -27,5 +27,11 @@
         "project_name": "Project Beta",
         "project_description": "This is my submission for Project Beta.",
         "project_author": "John"
+    },
+    {
+        "project_name": "ZeroToMastery Passport",
+        "project_description": "A digital passport for tracking progress in the ZeroToMastery program.",
+        "project_url": "https://passport.zerotomastery.io/",
+        "project_author": "Matt Smith"
     }
 ]
